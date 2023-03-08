@@ -3,7 +3,9 @@ Data Science Portfolio
 
 # [Project: 1 Business insights 360 BI-Dashboard](https://github.com/Manav-56/Finance-Domain-BI-Dashboard-) 
 - Bi dashboard for 4 distinct target audiences: finance, sales, marketing, supply chain, and executives (For upper management people like CEO etc)
+
 - Extracted the data Into MySQL, created a database, and made connections between them, finally Imported data to PowerBi data sets, and ETL processes from the MySQL database 
+
 - Did Data wrangling, Data Cleaning, Data modeling, and finally created amazing Dashboards. Data modeling with snowflake scheme across > 10 tables
 - Incorporating stakeholder feedback during UAT - it really took some effort to think of how and what to present given the limited real estate on a single view. Thankfully, I could make use of tooltip functionality to create supplemental views!
  
