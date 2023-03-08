@@ -62,7 +62,7 @@ Data Science Portfolio
   - Team Contribution
 
 
-# [Project: 6 FitnessApp](https://github.com/Manav-56/FitnessApp)
+# [Project: 7 FitnessApp](https://github.com/Manav-56/FitnessApp)
 
 - An App that aids in Health Maintenance
 - Features :
