@@ -4,3 +4,4 @@ google_analytics:
 theme: jekyll-theme-hacker
 github:
   zip_url: https://github.com/Manav-56
+  is_project_page: false
