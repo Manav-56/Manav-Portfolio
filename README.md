@@ -1,4 +1,4 @@
-# Manav_Portfolio
+
 Data Science Portfolio 
 
 # [Project: 1 Business insights 360 BI-Dashboard](https://github.com/Manav-56/Finance-Domain-BI-Dashboard-) 
