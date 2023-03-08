@@ -14,7 +14,7 @@ Data Science Portfolio
 # [Project: 2 Cloud based Youtube Data Analysis and Data Engineering](https://github.com/Manav-56/Cloud-based-Youtube-Data-Analysis-and-Data-Engineering-Project) 
 
 - Client Wants to launching new data-driven campaign, and for that they want to do marketing via advertisement
-- 
+
 - Main advertising channel: YouTube (Why youtube because it is second most- visited website(34.6 billion))
 
 - Requests :
@@ -23,8 +23,10 @@ Data Science Portfolio
     - Which region (Europe, North America, etc.) has the most views?
 
 
+
 - AWS Services used :
   - AWS IAM, AWS S3, AWS Lambda, AWS Glue, AWS Athena , AWS QuickSight
+
 
 
 - Tasks :
@@ -63,6 +65,7 @@ Data Science Portfolio
 
 - Dataset :
     - Ball by ball data of IPL from the year 2008
+
 
 
 - Comparion Based On :
